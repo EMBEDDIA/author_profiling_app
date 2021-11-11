@@ -1,4 +1,4 @@
-## Flask REST API for English keyword identification
+## Flask REST API for English and Spanish author profiling
 
 
 This repository contains a docker for English and Spanish author profiling app that can determine whether a tweet or comment
